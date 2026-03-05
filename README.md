@@ -5,9 +5,13 @@ The Diabetes Prediction System is a machine learning-based project that predicts
 
 **Objectives**
 Analyze medical data related to diabetes.
+
 Identify important health factors affecting diabetes.
+
 Build a machine learning model for diabetes prediction.
+
 Evaluate the model using performance metrics.
+
 Support early detection and risk assessment.
 
 **Dataset Information**
